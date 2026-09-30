@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32875858/README.md)
 <div align="center">
 
 # Dharanidharan Ravikumar
@@ -9,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-dharan-r-)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DharanidharanRavikumar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharanidharanravikumar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dharanidharanr12@gmail.com)
 
 </div>
 
